@@ -1,7 +1,7 @@
-### A Simple CSS Shape Generator App with Streamlit
+### Simple CSS Shape Code Generator App with Streamlit
 
 #### Requirement
-+ streamlit 0.59 and upwards
++ streamlit > 0.59 
 
 
 ### Screenshots
@@ -14,8 +14,8 @@
 
 
 #### Built with streamlit
-+ Jesus Saves@JCharisTech
-+ Jesse E.Agbe(JCharis)
++ Abhirath Kapoor
++ akapoor_be18@thapar.edu
 
 
 
