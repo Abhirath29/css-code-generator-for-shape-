@@ -51,8 +51,8 @@ def main():
 
 	if choice =="About":
 		st.subheader("About")
-		st.info("Jesus Saves @JCharisTech")
-		st.text("By Jesse E.Agbe(JCharis)")
+		st.info("Abhirath Kapoor")
+		st.text("akapoor_be18@thapar.edu")
 		st.success("Built with Streamlit")
 
 
